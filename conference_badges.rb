@@ -24,3 +24,4 @@ def printer(array)
     puts x 
   end
 end
+printer(attendees)
