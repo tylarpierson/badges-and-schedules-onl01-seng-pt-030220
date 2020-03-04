@@ -19,5 +19,8 @@ def printer(array)
   result_one.each do |x|
     puts x 
   end
-  result_two = 
+  result_two = assign_rooms(array)
+  result_two.each do |x|
+    puts x 
+  end
 end
