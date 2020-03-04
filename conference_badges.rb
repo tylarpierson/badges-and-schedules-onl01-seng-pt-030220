@@ -14,6 +14,6 @@ def assign_rooms(array)
 end
 assign_rooms(attendees)
 
-def printer
-  
+def printer(array)
+  result_one = 
 end
